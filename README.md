@@ -1,0 +1,6 @@
+-Descripción del proyecto: Proyecto con primeros pasos para una landingpage sobre una tienda de tecnología. 
+-Tecnologías utilizadas: HTML, CSS. 
+-Instrucciones de instalación y uso: Instalar VS para su edición. 
+-Ejemplos de uso: Proyecto de HTML para un desarrollador jr. 
+-Capturas de pantalla (si es aplicable): no aplicable. 
+-Contribuciones (si es un proyecto colaborativo): no es un proyecto colaborativo.
